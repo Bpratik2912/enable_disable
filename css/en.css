@@ -1,0 +1,45 @@
+body {
+  width: 1410px;
+  height: 295px;
+  padding-top: 70px;
+  padding-right: 105px;
+  padding-left: 113px;
+  padding-bottom: 8px;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    size: 108px;
+    margin: 8px 8px 8px 8px;
+    width: 824px;
+    height: 69px;
+}
+
+select{
+  width: 202px;height: 43px;
+}
+
+.DROPDOWN {
+  margin: -12px 1px -10px 89px;
+  width: 292px;
+  border-radius: 3px;
+}
+
+.rem {
+  background-color: red;
+  border-color: red;
+  color: white;
+  cursor: pointer;
+  margin: 0px -1px -1px 147px;
+  padding: 10px 15px 10px 15px;
+}
+
+.addbutton {
+  background-color: rgb(253, 253, 253);
+  cursor: pointer;
+  width: 228px;
+  height: 35px;
+  margin: 0px 0px 0px 7px;
+}
